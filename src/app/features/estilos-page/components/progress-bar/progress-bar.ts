@@ -13,6 +13,4 @@ export class ProgressBar {
     const nuevoValor = Number(input.value);
     this.progreso.set(nuevoValor);
   }
-
-
 }
